@@ -1,3 +1,10 @@
+# Implementing JWT Authentication in React and Node.js
+
+This project showcases how to implement JWT authentication in React and Node.js with a full project example.
+
+For more details, check out the Medium article:  
+[Implementing JWT Authentication in React and Node.js - Medium](https://fbatuhanr.medium.com/implementing-jwt-authentication-in-react-and-node-js-step-by-step-guide-and-full-project-example-49c92f6da10a)
+
 
 https://github.com/user-attachments/assets/fb7cdb39-238d-4ff7-8921-a7f299a2943e
 
